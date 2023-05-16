@@ -1,0 +1,6 @@
+torch==2.0.0+cu118
+torchaudio==2.0.1+cu118
+torchvision==0.15.1+cu118
+torchdata==0.6.0
+torchtext==0.15.0
+notebook==6.5.4
